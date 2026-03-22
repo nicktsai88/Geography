@@ -536,13 +536,13 @@
     "id": "q42",
     "question": "42. ()印度半島位於歐亞大陸南端,氣候深受季風影響。請問:該地區主要因為哪一種季風風向的影響,導致大量降水?",
     "options": [
-      "(A)<img src='Geography4-L2-images/q42_a.jpg' alt='Option A'>",
-      "(B)<img src='Geography4-L2-images/q42_b.jpg' alt='Option B'>",
-      "(C)<img src='Geography4-L2-images/q42_c.jpg' alt='Option C'>",
-      "(D)<img src='Geography4-L2-images/q42_d.jpg' alt='Option D'>"
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
     ],
     "answer": "(B)",
-    "image": "",
+    "image": "Geography4-L2-images/q42.jpg",
     "explanation": "詳解：印度半島的夏季季風是從印度洋吹向亞洲大陸的「西南季風」，帶來豐沛的水氣，為南亞的雨季來源。箭頭應由西南指向東北（選項B的圖示）。"
   },
   {
