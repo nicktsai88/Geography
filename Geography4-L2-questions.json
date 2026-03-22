@@ -61,7 +61,7 @@
       "(D)世界屋脊"
     ],
     "answer": "(A)",
-    "image": "images/q05.jpg",
+    "image": "Geography4-L2-images/q05.jpg",
     "explanation": "詳解：圖中方框標示的地區為印度半島。該地區因為北有高大險峻的喜馬拉雅山脈與亞洲大陸主體阻隔，形成相對獨立、封閉的地理單元，故在地理學上被稱為「次大陸」。"
   },
   {
@@ -152,7 +152,7 @@
       "(D)埃及"
     ],
     "answer": "(C)",
-    "image": "images/q12.jpg",
+    "image": "Geography4-L2-images/q12.jpg",
     "explanation": "詳解：圖中顯示的國家為位於南亞的「印度」。印度與美國經度相差約180度，時差約半天，美國下班時剛好是印度上班時間，可利用此日夜顛倒的時差優勢進行24小時接力研發。"
   },
   {
@@ -165,7 +165,7 @@
       "(D)丁"
     ],
     "answer": "(D)",
-    "image": "images/q13.jpg",
+    "image": "Geography4-L2-images/q13.jpg",
     "explanation": "詳解：開發中國家因出生率高，人口成長快速。圖中甲為日本，乙為臺灣，丙為俄羅斯，皆屬於已開發國家或人口成長緩慢/負成長地區。丁為印度，屬於國民所得較低的開發中國家，人口成長極快。"
   },
   {
@@ -217,7 +217,7 @@
       "(D)巴基斯坦"
     ],
     "answer": "(B)",
-    "image": "images/q17.jpg",
+    "image": "Geography4-L2-images/q17.jpg",
     "explanation": "詳解：從圖表中可知甲國人口數在2020年接近14億，且世界排名第二（圖中標示2），符合此條件的南亞國家為「印度」。"
   },
   {
@@ -295,7 +295,7 @@
       "(D)以上皆非"
     ],
     "answer": "(A)",
-    "image": "images/q23.jpg",
+    "image": "Geography4-L2-images/q23.jpg",
     "explanation": "詳解：印度半島氣候分三季：甲為涼季（11月-2月），氣候涼爽乾燥；乙為熱季（3月-5月），高溫乾熱；丙為雨季（6月-10月），高溫多雨。因此，最舒適宜人的旅遊季節為甲（涼季）。"
   },
   {
@@ -308,7 +308,7 @@
       "(D)珊瑚礁群島"
     ],
     "answer": "(C)",
-    "image": "images/q24.jpg",
+    "image": "Geography4-L2-images/q24.jpg",
     "explanation": "詳解：圖中高鐵路線位於印度半島的西海岸（西高止山西側沿海），往來於孟買一帶，在整體大地形區劃分上，緊鄰並屬於「德干高原」的邊緣區域。"
   },
   {
@@ -334,7 +334,7 @@
       "(D)丁"
     ],
     "answer": "(D)",
-    "image": "images/q26.jpg",
+    "image": "Geography4-L2-images/q26.jpg",
     "explanation": "詳解：圖中甲為巴基斯坦（逾2億）、乙為印度（逾14億）、丙為孟加拉（逾1.6億），皆為人口破億的國家。丁為斯里蘭卡，人口約2000多萬，未超過一億。"
   },
   {
@@ -438,7 +438,7 @@
       "(D)北"
     ],
     "answer": "(C)",
-    "image": "images/q34.jpg",
+    "image": "Geography4-L2-images/q34.jpg",
     "explanation": "詳解：剖面圖中右側海拔極高（超過8000公尺），為北部的喜馬拉雅山；向左側海拔逐漸降至平原及較低的高原。因為南亞地勢是「北高南低」，所以圖的右邊是北，左邊的箭頭指向「南方」。"
   },
   {
@@ -477,7 +477,7 @@
       "(D)地震頻率"
     ],
     "answer": "(B)",
-    "image": "images/q37.jpg",
+    "image": "Geography4-L2-images/q37.jpg",
     "explanation": "詳解：(A)北部為板塊推擠的新褶曲山，南部為古老地塊；(C)北部高山氣溫較低，南部緯度低氣溫較高；(D)北部板塊交界地震多，南部陸塊穩定地震少。只有(B)「北部海拔高度較高，南部較低」是完全正確的。"
   },
   {
@@ -536,10 +536,10 @@
     "id": "q42",
     "question": "42. ()印度半島位於歐亞大陸南端,氣候深受季風影響。請問:該地區主要因為哪一種季風風向的影響,導致大量降水?",
     "options": [
-      "(A)<img src='images/q42_a.jpg' alt='Option A'>",
-      "(B)<img src='images/q42_b.jpg' alt='Option B'>",
-      "(C)<img src='images/q42_c.jpg' alt='Option C'>",
-      "(D)<img src='images/q42_d.jpg' alt='Option D'>"
+      "(A)<img src='Geography4-L2-images/q42_a.jpg' alt='Option A'>",
+      "(B)<img src='Geography4-L2-images/q42_b.jpg' alt='Option B'>",
+      "(C)<img src='Geography4-L2-images/q42_c.jpg' alt='Option C'>",
+      "(D)<img src='Geography4-L2-images/q42_d.jpg' alt='Option D'>"
     ],
     "answer": "(B)",
     "image": "",
@@ -568,7 +568,7 @@
       "(D)丁"
     ],
     "answer": "(C)",
-    "image": "images/q44.jpg",
+    "image": "Geography4-L2-images/q44.jpg",
     "explanation": "詳解：文中提到國家為孟加拉。附圖中甲為巴基斯坦，乙為印度，丙為位於恆河三角洲的「孟加拉」，丁為不丹/尼泊爾一帶邊界。"
   },
   {
@@ -581,7 +581,7 @@
       "(D)珊瑚礁島"
     ],
     "answer": "(D)",
-    "image": "images/q45.jpg",
+    "image": "Geography4-L2-images/q45.jpg",
     "explanation": "詳解：圖片文字顯示「逃出馬爾地夫」。馬爾地夫是位於印度洋的群島國家，地勢極低，由數以千計的「珊瑚礁島」所組成。"
   },
   {
@@ -620,7 +620,7 @@
       "(D)對外交通便利"
     ],
     "answer": "(D)",
-    "image": "images/q48.jpg",
+    "image": "Geography4-L2-images/q48.jpg",
     "explanation": "詳解：書名為《印度崛起》。印度的優勢在於(A)理工軟體人才多、(B)英語能力佳、(C)擁有大量廉價勞力。然而，印度的基礎建設（包含道路、鐵路、港口等交通與電力設施）相對落後，是其發展的劣勢，故不包括(D)。"
   },
   {
@@ -659,7 +659,7 @@
       "(D)丁"
     ],
     "answer": "(D)",
-    "image": "images/q51.jpg",
+    "image": "Geography4-L2-images/q51.jpg",
     "explanation": "詳解：稻米生長需要高溫多雨及平坦肥沃的土地。圖中丁區位於恆河下游及三角洲（印度東北部與孟加拉），該地夏季迎西南季風降水極為豐沛，是南亞最主要的稻米產區。"
   },
   {
@@ -672,17 +672,17 @@
       "(D)丁"
     ],
     "answer": "(D)",
-    "image": "images/q52.jpg",
+    "image": "Geography4-L2-images/q52.jpg",
     "explanation": "詳解：「次大陸」指的是南亞（印度次大陸），因為其北部有喜馬拉雅山脈阻隔，形成相對獨立的地理單元。圖中丁即為南亞地區。"
   },
   {
     "id": "q53",
     "question": "53. ()郡繡和怡如想利用新年假期出國旅遊,到氣候溫暖且乾爽的地方觀光。請問:下列哪一個國家最符合她們的需求?",
     "options": [
-      "(A)<img src='images/q53_a.jpg' alt='Option A'>",
-      "(B)<img src='images/q53_b.jpg' alt='Option B'>",
-      "(C)<img src='images/q53_c.jpg' alt='Option C'>",
-      "(D)<img src='images/q53_d.jpg' alt='Option D'>"
+      "(A)<img src='Geography4-L2-images/q53_a.jpg' alt='Option A'>",
+      "(B)<img src='Geography4-L2-images/q53_b.jpg' alt='Option B'>",
+      "(C)<img src='Geography4-L2-images/q53_c.jpg' alt='Option C'>",
+      "(D)<img src='Geography4-L2-images/q53_d.jpg' alt='Option D'>"
     ],
     "answer": "(C)",
     "image": "",
@@ -737,7 +737,7 @@
       "(D)丁"
     ],
     "answer": "(D)",
-    "image": "images/q57.jpg",
+    "image": "Geography4-L2-images/q57.jpg",
     "explanation": "詳解：印度與巴基斯坦長期存在領土與宗教爭議的地區為「喀什米爾」，它位於印度半島的西北端、兩國交界處，即圖中的丁地。"
   },
   {
@@ -789,7 +789,7 @@
       "(D) 巴基斯坦"
     ],
     "answer": "(D)",
-    "image": "images/q061.jpg",
+    "image": "Geography4-L2-images/q061.jpg",
     "explanation": "詳解：美國的「印太戰略」主要防堵中國向太平洋與印度洋擴張。為了突破麻六甲海峽與印太戰略弧的封鎖，中國積極推動「一帶一路」中的「中巴經濟走廊」，與「巴基斯坦」合作，藉由瓜達爾港直接取得進入印度洋與中東的通道。"
   },
   {
@@ -841,7 +841,7 @@
       "(D)丁"
     ],
     "answer": "(A)",
-    "image": "images/q065.jpg",
+    "image": "Geography4-L2-images/q065.jpg",
     "explanation": "詳解：喀什米爾（Kashmir）位於南亞西北部的高山地區，地處印度、巴基斯坦與中國三國交界。圖中甲的位置即為喀什米爾地區。"
   },
   {
@@ -854,7 +854,7 @@
       "(D)喜馬拉雅山"
     ],
     "answer": "(D)",
-    "image": "images/q066.jpg",
+    "image": "Geography4-L2-images/q066.jpg",
     "explanation": "詳解：由圖中的地點「西藏自治區（日喀則、吉隆）」連接到尼泊爾的首都「加德滿都」，可以判斷該鐵路路線穿越了位於中國西藏與南亞次大陸交界處的「喜馬拉雅山脈」。"
   },
   {
@@ -919,7 +919,7 @@
       "(D)溫帶沙漠氣候"
     ],
     "answer": "(C)",
-    "image": "images/q071.jpg",
+    "image": "Geography4-L2-images/q071.jpg",
     "explanation": "詳解：由氣候圖可知，喀拉蚩最冷月均溫大於18℃（終年高溫），且年降水量僅167.6mm（極為稀少），特徵符合「熱帶沙漠氣候」。"
   },
   {
@@ -945,20 +945,20 @@
       "(D)乙甲丙"
     ],
     "answer": "(B)",
-    "image": "images/q073.jpg",
+    "image": "Geography4-L2-images/q073.jpg",
     "explanation": "詳解：印度大平原的夏季降水主要來自孟加拉灣的西南季風，水氣自東向西深入內陸，因此降水量會「由東向西遞減」。圖中降水量甲（1800mm）＞丙（790mm）＞乙（167.6mm），故由東至西的順序為甲、丙、乙。"
   },
   {
     "id": "q74",
     "question": "74. ()印度東北部乞拉朋吉是世界降水量最多的地區之一,此區的降水類型應為下列何者?",
     "options": [
-      "(A)<img src='images/q074_a.jpg' alt='Option A'>",
-      "(B)<img src='images/q074_b.jpg' alt='Option B'>",
-      "(C)<img src='images/q074_c.jpg' alt='Option C'>",
-      "(D)<img src='images/q074_d.jpg' alt='Option D'>"
+      "(A)<img src='Geography4-L2-images/q074_a.jpg' alt='Option A'>",
+      "(B)<img src='Geography4-L2-images/q074_b.jpg' alt='Option B'>",
+      "(C)<img src='Geography4-L2-images/q074_c.jpg' alt='Option C'>",
+      "(D)<img src='Geography4-L2-images/q074_d.jpg' alt='Option D'>"
     ],
     "answer": "(B)",
-    "image": "images/q074.jpg",
+    "image": "Geography4-L2-images/q074.jpg",
     "explanation": "詳解：乞拉朋吉的極端降水是因為夏季西南季風遇到地形抬升所形成的「地形雨」。圖(A)是背風坡下沉氣流，圖(B)是迎風坡抬升形成的地形雨，圖(C)是鋒面雨，圖(D)是對流雨。故選(B)。"
   },
   {
@@ -984,7 +984,7 @@
       "(D)連日降雨,造成土石流掩埋道路"
     ],
     "answer": "(D)",
-    "image": "images/q076.jpg",
+    "image": "Geography4-L2-images/q076.jpg",
     "explanation": "詳解：該次地震震央位於印度北邊的喜馬拉雅山區（尼泊爾附近）。9月份仍處於南亞的「雨季」，山區連日降雨加上地震導致土石鬆動，極易引發「土石流掩埋道路」，導致搜救困難。"
   },
   {
@@ -1010,7 +1010,7 @@
       "(D)喜馬拉雅山"
     ],
     "answer": "(D)",
-    "image": "images/q078.jpg",
+    "image": "Geography4-L2-images/q078.jpg",
     "explanation": "詳解：圖中顯示的領土爭議區為印度、巴基斯坦及中國交界的「喀什米爾」地區，該地在地形上位於北部高聳的「喜馬拉雅山脈」山區。"
   },
   {
@@ -1036,7 +1036,7 @@
       "(D)地形平坦,人口集中平原地區"
     ],
     "answer": "(A)",
-    "image": "images/q080.jpg",
+    "image": "Geography4-L2-images/q080.jpg",
     "explanation": "詳解：圖表中顯示1995年印度與中國大陸的鄉村人口比例高達74%，都市化程度非常低。這主要是因為當時兩國的經濟結構仍以「第一級產業（農牧業）」為主，大部分人口居住在鄉村從事農業活動。"
   },
   {
@@ -1049,7 +1049,7 @@
       "(D)丁"
     ],
     "answer": "(D)",
-    "image": "images/q081.jpg",
+    "image": "Geography4-L2-images/q081.jpg",
     "explanation": "詳解：文宣提到的「沙漠、駱駝」景觀是指位於印度西北部及巴基斯坦東部的「塔爾沙漠」。在附圖中，甲是北部高山，乙是德干高原，丙是東岸平原，丁是西北部的沙漠區。"
   },
   {
@@ -1062,7 +1062,7 @@
       "(D)俄羅斯"
     ],
     "answer": "(B)",
-    "image": "images/q082.jpg",
+    "image": "Geography4-L2-images/q082.jpg",
     "explanation": "詳解：照片說明中提及「恆河旁」以及「宗教信仰上用恆河水沐浴淨身」，這是印度教教徒的獨特宗教儀式，故該地點位於「印度」。"
   },
   {
@@ -1140,7 +1140,7 @@
       "(D)國民平均壽命明顯比較高"
     ],
     "answer": "(A)",
-    "image": "images/q088.jpg",
+    "image": "Geography4-L2-images/q088.jpg",
     "explanation": "詳解：由比較圖中可見，南亞三國（巴基斯坦、孟加拉、印度）的最上方代表「老年人口」的比例極低，相較於中國與日本，這表示他們在經濟發展上面臨的「高齡人口的扶養負擔較低」。"
   },
   {
@@ -1192,7 +1192,7 @@
       "(D)丁"
     ],
     "answer": "(B)",
-    "image": "images/q092.jpg",
+    "image": "Geography4-L2-images/q092.jpg",
     "explanation": "詳解：圖中乙區位於印度半島中南部的德干高原西北側。該處有古老熔岩風化而成的肥沃「黑棉土」，加上氣候乾溼分明，非常適合種植棉花，是印度重要的產棉區。"
   },
   {
@@ -1231,7 +1231,7 @@
       "(D)位居迎風面"
     ],
     "answer": "(D)",
-    "image": "images/q095.jpg",
+    "image": "Geography4-L2-images/q095.jpg",
     "explanation": "詳解：圖中甲（喜馬拉雅山南麓）、乙（印度東北部阿薩姆丘陵）、丙（西高止山西側）的年降水量都非常驚人，原因是夏季的「西南季風」遇到這些山地地形強烈抬升，皆為「迎風面」，因此降下豐沛的地形雨。"
   },
   {
@@ -1244,7 +1244,7 @@
       "(D)平均壽命相對長"
     ],
     "answer": "(B)",
-    "image": "images/q096.jpg",
+    "image": "Geography4-L2-images/q096.jpg",
     "explanation": "詳解：圖表中顯示南亞三國（巴基斯坦、孟加拉、印度）的幼年人口比例高，而老年人口比例很低，代表這三個國家的人口結構偏向年輕化，即「人口平均年齡相對低」。"
   },
   {
@@ -1257,7 +1257,7 @@
       "(D)巴基斯坦"
     ],
     "answer": "(A)",
-    "image": "images/q097.jpg",
+    "image": "Geography4-L2-images/q097.jpg",
     "explanation": "詳解：圖中顯示的河流是發源於中國青藏高原的「雅魯藏布江」，其往下游流經南亞時稱為布拉馬普特拉河，流經的國家為「印度」東北部及孟加拉。因此中國建壩會引起印度與孟加拉的抗議。"
   },
   {
@@ -1322,7 +1322,7 @@
       "(D)十二月"
     ],
     "answer": "(B)",
-    "image": "images/q102.jpg",
+    "image": "Geography4-L2-images/q102.jpg",
     "explanation": "詳解：印度的「熱季」大約落在每年的3月至5月。此時太陽直射北移，且降雨稀少，氣溫飆升極快，常出現熱浪甚至導致柏油路融化。直到6月西南季風帶來雨季，氣溫才會下降。"
   },
   {
@@ -1342,10 +1342,10 @@
     "id": "q104",
     "question": "104. ()位於歐亞大陸南端的印度半島,氣候類型隨各季節的特色而產生變化,因而對當地居民的生活影響甚大。請問:該地區的降雨主要來自於下列哪一個季風風向所帶來的大量水氣?",
     "options": [
-      "(A)<img src='images/q104_a.jpg' alt='Option A'>",
-      "(B)<img src='images/q104_b.jpg' alt='Option B'>",
-      "(C)<img src='images/q104_c.jpg' alt='Option C'>",
-      "(D)<img src='images/q104_d.jpg' alt='Option D'>"
+      "(A)<img src='Geography4-L2-images/q104_a.jpg' alt='Option A'>",
+      "(B)<img src='Geography4-L2-images/q104_b.jpg' alt='Option B'>",
+      "(C)<img src='Geography4-L2-images/q104_c.jpg' alt='Option C'>",
+      "(D)<img src='Geography4-L2-images/q104_d.jpg' alt='Option D'>"
     ],
     "answer": "(B)",
     "image": "",
@@ -1387,7 +1387,7 @@
       "(D)丁"
     ],
     "answer": "(B)",
-    "image": "images/q107.jpg",
+    "image": "Geography4-L2-images/q107.jpg",
     "explanation": "詳解：附圖一的氣候圖顯示年均溫高達26.1℃，且年降水量僅167.6mm，呈現極度乾燥少雨的特徵，屬於熱帶沙漠氣候。這對應於圖二中印度與巴基斯坦交界處的塔爾沙漠（乙區）。"
   },
   {
@@ -1465,7 +1465,7 @@
       "(D)丁"
     ],
     "answer": "(C)",
-    "image": "images/q113.jpg",
+    "image": "Geography4-L2-images/q113.jpg",
     "explanation": "詳解：圖一中三地的降水量由左至右分別為極少（167.6mm）、中等（790mm）、極多（1800mm以上）。這顯示了一條降水量由少變多的路徑。圖二中，丙軸線從西北部乾燥的塔爾沙漠出發，穿越印度平原到達東北部降水極豐沛的山區，符合此一降水增加的變化趨勢。"
   },
   {
@@ -1582,7 +1582,7 @@
       "(D)丁"
     ],
     "answer": "(B)",
-    "image": "images/q122.jpg",
+    "image": "Geography4-L2-images/q122.jpg",
     "explanation": "詳解：在2016年，世界人口總數排名第一為中國，第二為印度，第三為美國。因此，若依人口由大到小排列，印度應該排在中國之後、美國之前，也就是圖中「乙」的位置。"
   },
   {
@@ -1595,7 +1595,7 @@
       "(D)歐亞板塊、菲律賓海板塊"
     ],
     "answer": "(A)",
-    "image": "images/q123.jpg",
+    "image": "Geography4-L2-images/q123.jpg",
     "explanation": "詳解：圖中顯示震央位於尼泊爾、印度與中國（西藏）交界帶，此處為喜馬拉雅山脈地區。該山脈是因「印澳板塊」向北推擠「歐亞板塊」所形成的新褶曲山脈，地殼活動頻繁，故常發生大地震。"
   },
   {
@@ -1621,7 +1621,7 @@
       "(D)礦產分布"
     ],
     "answer": "(B)",
-    "image": "images/q125.jpg",
+    "image": "Geography4-L2-images/q125.jpg",
     "explanation": "詳解：由人口密度圖可以看出，南亞人口高度集中在降水豐沛的恆河平原、布拉馬普特拉河谷及半島東西兩側的沿海平原（適合種植水稻）；而在西北部的塔爾沙漠及德干高原內部雨影區，因氣候乾燥少雨，人口密度顯著較低。故與「降水多寡」最為相關。"
   },
   {
@@ -1634,7 +1634,7 @@
       "(D)丁"
     ],
     "answer": "(B)",
-    "image": "images/q126.jpg",
+    "image": "Geography4-L2-images/q126.jpg",
     "explanation": "詳解：題目描述的是印度教的「種姓制度」。圖中乙區位於南亞的印度河流域，為古印度文明的發源地，深受傳統宗教（印度教前身及印度教）影響而形成了嚴格的社會階級制度。"
   },
   {
@@ -1712,7 +1712,7 @@
       "(D)丁"
     ],
     "answer": "(B)",
-    "image": "images/q132.jpg",
+    "image": "Geography4-L2-images/q132.jpg",
     "explanation": "詳解：印度半島的三大主要地形區由北向南依序為：高聳的喜馬拉雅山脈、地勢低平的印度大平原，以及古老陸塊形成的德干高原。圖中「乙」路線正好是從北部的山地出發，向南穿越平原，最後進入高原區。"
   },
   {
@@ -1764,7 +1764,7 @@
       "(D)涼季來臨前的十月"
     ],
     "answer": "(C)",
-    "image": "images/q136.jpg",
+    "image": "Geography4-L2-images/q136.jpg",
     "explanation": "詳解：新聞中提到「熱浪」與高達攝氏45度的高溫，甚至造成柏油路融化。印度的熱季出現在每年的3~5月，因為此時太陽直射點北移，氣溫急速攀升，且雨季（6月開始）尚未到來，氣候極度乾熱，故最可能發生在5月。"
   },
   {
@@ -1803,7 +1803,7 @@
       "(D)丁————茶葉"
     ],
     "answer": "(B)",
-    "image": "images/q139.jpg",
+    "image": "Geography4-L2-images/q139.jpg",
     "explanation": "詳解：甲為氣候較乾燥的印度河平原，主產小麥；乙為德干高原西北部，有肥沃的黑棉土，主產「棉花」；丙為降水豐富的恆河平原中下游與沿海地帶，主產稻米；丁為東北部丘陵區，主產茶樹。故(B)正確。"
   },
   {
@@ -1881,7 +1881,7 @@
       "(D)丁"
     ],
     "answer": "(C)",
-    "image": "images/q145.jpg",
+    "image": "Geography4-L2-images/q145.jpg",
     "explanation": "詳解：邦加羅爾位於印度半島南部、德干高原的中南部地區。圖中丙區即標示著印度半島南部的德干高原，氣候相對溫涼宜人，非常適合發展高科技產業。"
   },
   {
@@ -1894,7 +1894,7 @@
       "(D)大量的理工人才"
     ],
     "answer": "(C)",
-    "image": "images/q146.jpg",
+    "image": "Geography4-L2-images/q146.jpg",
     "explanation": "詳解：從附表可以看出，孟加拉的出口產品以「成衣」占比最高（71.7%）。紡織成衣業屬於典型的勞力密集產業，因此孟加拉是依賴其人口密度高、勞動力充沛且「廉價」的優勢來發展經濟。"
   },
   {
@@ -1933,7 +1933,7 @@
       "(D)新加坡"
     ],
     "answer": "(B)",
-    "image": "images/q149.jpg",
+    "image": "Geography4-L2-images/q149.jpg",
     "explanation": "詳解：照片的說明提及「恆河旁」以及「因為宗教上的信仰，當地人們會用恆河水沐浴淨身」。這描繪的是印度教徒在聖河恆河畔的獨特生活場景，故地點位於印度。"
   },
   {
@@ -2024,7 +2024,7 @@
       "(D)教徒在恆河沐浴祈禱"
     ],
     "answer": "(D)",
-    "image": "images/q156.jpg",
+    "image": "Geography4-L2-images/q156.jpg",
     "explanation": "詳解：圖中顯示的階級為「婆羅門、剎帝利、吠舍、首陀羅」，這是印度傳統的「種姓制度」，源自其最主要的宗教「印度教」。印度教信徒深信「恆河」為聖河，常在河中沐浴淨身及祈禱。"
   },
   {
@@ -2063,7 +2063,7 @@
       "(D)越南"
     ],
     "answer": "(B)",
-    "image": "images/q159.jpg",
+    "image": "Geography4-L2-images/q159.jpg",
     "explanation": "詳解：圖表中的線索包含：壯年人口比例世界第一、以「英語」為官方語言、平均薪資遠低於中國，以及劣勢中有「傳統制度（指種姓制度）導致社會流動率低」。綜合以上，最符合的國家是「印度」。"
   },
   {
@@ -2089,7 +2089,7 @@
       "(D)丁"
     ],
     "answer": "(B)",
-    "image": "images/q161.jpg",
+    "image": "Geography4-L2-images/q161.jpg",
     "explanation": "詳解：印度氣候三季的標準畫分：11月到隔年2月為「涼季」，3月到5月為高溫乾熱的「熱季」，6月到10月為受西南季風影響而多雨的「雨季」。因此表中的「乙」分配完全正確。"
   },
   {
@@ -2102,7 +2102,7 @@
       "(D)丁"
     ],
     "answer": "(D)",
-    "image": "images/q162.jpg",
+    "image": "Geography4-L2-images/q162.jpg",
     "explanation": "詳解：喀什米爾（Kashmir）是印度與巴基斯坦之間長期的火藥庫與領土爭議區，地理位置在南亞大陸的最西北端高山區。對照地圖，丁的位置即為南亞西北部的喀什米爾。"
   },
   {
@@ -2141,7 +2141,7 @@
       "(D)丁"
     ],
     "answer": "(C)",
-    "image": "images/q165.jpg",
+    "image": "Geography4-L2-images/q165.jpg",
     "explanation": "詳解：(A)位置顛倒，巴基斯坦是印度河流域，孟加拉是恆河流域。(B)孟加拉地形以平原（三角洲）為主。(D)宗教信仰兩國都是以「伊斯蘭教」為主。只有(C)氣候正確，巴基斯坦氣候乾熱（沙漠），孟加拉氣候溼熱（熱帶季風）。"
   },
   {
@@ -2167,7 +2167,7 @@
       "(D)主要國家: 恆河為印度, 印度河為斯里蘭卡"
     ],
     "answer": "(D)",
-    "image": "images/q167.jpg",
+    "image": "Geography4-L2-images/q167.jpg",
     "explanation": "詳解：印度河主要流經的國家是「巴基斯坦」（以及印度西北部），最終注入阿拉伯海。而斯里蘭卡是位於南亞外海的島國，印度河並未流經，故(D)選項錯誤。"
   },
   {
@@ -2193,7 +2193,7 @@
       "(D)奈及利亞"
     ],
     "answer": "(A)",
-    "image": "images/q169.jpg",
+    "image": "Geography4-L2-images/q169.jpg",
     "explanation": "詳解：圖的橫軸為「人口占世界累積百分比」，甲國的寬度極寬，代表其人口數極端龐大（約占世界近20%），且其人均GDP（縱軸）低於世界平均。符合人口超級龐大（僅次於圖右側的中國）且屬開發中國家的就是「印度」。"
   },
   {
@@ -2219,7 +2219,7 @@
       "(D)ㄈ"
     ],
     "answer": "(A)",
-    "image": "images/q171.jpg",
+    "image": "Geography4-L2-images/q171.jpg",
     "explanation": "詳解：文中提及「神牛」和「恆河聖浴」，這都是印度教的重要信仰特徵。因此該國家應是以信仰「印度教」為主。對照附表，ㄅ國的印度教比例高達80%，符合印度國情。"
   },
   {
@@ -2232,7 +2232,7 @@
       "(D)丁"
     ],
     "answer": "(C)",
-    "image": "images/q172.jpg",
+    "image": "Geography4-L2-images/q172.jpg",
     "explanation": "詳解：「無米樂」講述的是種植水稻的故事。在印度，水稻主要分布在降水豐沛的恆河中下游平原以及半島兩側的沿海平原。圖中「丙」區為東岸沿海平原，降水多，是適合拍攝水稻耕作的地點。甲為茶區，乙為棉花區，丁為小麥區。"
   },
   {
@@ -2258,7 +2258,7 @@
       "(D)位於季風路徑末端"
     ],
     "answer": "(B)",
-    "image": "images/q174.jpg",
+    "image": "Geography4-L2-images/q174.jpg",
     "explanation": "詳解：孟買位於印度半島西岸，夏季直接迎向從阿拉伯海吹來的「西南季風」，西高止山抬升水氣形成大量地形雨。而邦加羅爾位於西高止山脈東側的德干高原上，屬於西南季風的「背風坡（雨影區）」，因此降水量明顯較少。"
   },
   {
@@ -2297,7 +2297,7 @@
       "(D)伊斯蘭教"
     ],
     "answer": "(B)",
-    "image": "images/q177.jpg",
+    "image": "Geography4-L2-images/q177.jpg",
     "explanation": "詳解：根據對話中提到「婆羅門教」、「濕婆神」、「將牛視為聖獸並任由其在馬路上行走」等特徵，可以判斷出該團員正在旅遊的國家是印度，其主要信仰為「印度教」。"
   },
   {
@@ -2336,7 +2336,72 @@
       "(D)中巴經濟走廊"
     ],
     "answer": "(D)",
-    "image": "images/q180.jpg",
+    "image": "Geography4-L2-images/q180.jpg",
     "explanation": "詳解：圖中的路線從中國新疆的喀什出發，向南穿越高山，縱貫「巴基斯坦」（經過伊斯蘭堡、拉合爾等地），最終抵達瀕臨阿拉伯海的「瓜達爾港」。這條路線被稱為「中巴經濟走廊」。"
+  },
+    {
+    "id": "q181",
+    "question": "181. ()附圖一為某漫畫的情節。請依圖中內容判斷,其發生地點的環境與附圖二中的哪一個地區最為相似?",
+    "options": [
+      "(A)甲",
+      "(B)乙",
+      "(C)丙",
+      "(D)丁"
+    ],
+    "answer": "(D)",
+    "image": "Geography4-L2-images/q181.jpg",
+    "explanation": "詳解：圖一為唐僧取經行經「浩瀚沙漠中，風沙強大」的畫面，顯示該地為乾燥的沙漠氣候。圖二為南亞分區，丁地位於印度與巴基斯坦交界處，因長年受副熱帶高氣壓籠罩，且夏季西南季風難以深入，形成乾燥少雨的「塔爾沙漠」。甲為德干高原，乙為恆河平原，丙為恆河三角洲（雨水豐沛）。故與丁地環境最相似。"
+  },
+  {
+    "id": "q182",
+    "question": "182. ()印度半島可分為三大地形區,附圖中哪一個剖線正好可通過此三大地形區?",
+    "options": [
+      "(A)甲",
+      "(B)乙",
+      "(C)丙",
+      "(D)丁"
+    ],
+    "answer": "(C)",
+    "image": "Geography4-L2-images/q182.jpg",
+    "explanation": "詳解：印度半島的三大地形區由北到南分別是：北部的高山區（喜馬拉雅山）、中部的大平原區（印度河平原與恆河平原）、南部的高原區（德干高原）。剖線「丙」呈現東北-西南走向，剛好由北向南完整穿過這三個主要地形區。剖線甲未經過平原與高山；剖線乙只經過南部高原與東岸平原；剖線丁由西北向東南，未經過南部的德干高原。"
+  },
+  {
+    "id": "q183",
+    "question": "183. ()住在臺北的大雄和靜香想利用難得的元旦新年假期出國旅遊,好好放鬆並增廣見聞,於是決定到一個氣候溫暖且乾爽的地方觀光,正好可以避開臺北溼冷的天氣。請問:他們參加下列哪一個國家的旅遊最符合需求?",
+    "options": [
+      "(A)<img src='Geography4-L2-images/q183_a.jpg' alt='Option A'>",
+      "(B)<img src='Geography4-L2-images/q183_b.jpg' alt='Option B'>",
+      "(C)<img src='Geography4-L2-images/q183_c.jpg' alt='Option C'>",
+      "(D)<img src='Geography4-L2-images/q183_d.jpg' alt='Option D'>"
+    ],
+    "answer": "(C)",
+    "image": "",
+    "explanation": "詳解：元旦新年假期為一月。此時北半球的法國(A)與韓國(B)皆處於冬季，氣候十分寒冷；印尼(D)屬於熱帶雨林氣候，終年高溫多雨，較不符合「乾爽」的條件；印度(C)在每年11月至隔年2月為「涼季」，由於受到東北季風吹拂，且北部高山阻擋了寒冷的亞洲大陸氣流南下，氣候變得溫暖、乾燥且涼爽，最符合「溫暖且乾爽」的旅遊需求。"
+  },
+  {
+    "id": "q184",
+    "question": "184. ( )世界上許多人口密集區均位在河川沖積而成的平原,下列關於平原與形成河川的配對中,何者有誤?",
+    "options": [
+      "(A)印度大平原———布拉馬普得拉河、恆河",
+      "(B)三江平原———黑龍江、松花江、烏蘇里江",
+      "(C)華北平原———黃河、淮河",
+      "(D)東北平原———松花江、遼河"
+    ],
+    "answer": "(A)",
+    "image": "",
+    "explanation": "詳解：(A)錯誤。印度半島北部的「印度大平原」，其西半部是由「印度河」沖積而成，東半部是由「恆河」沖積而成。布拉馬普得拉河主要是與恆河在下游匯合，共同沖積形成「恆河三角洲」，而非整個印度大平原。(B)三江平原、(C)華北平原、(D)東北平原（松遼平原）的河川沖積成因皆正確。"
+  },
+  {
+    "id": "q185",
+    "question": "185. ()「這個地區早期被稱為Gangaridai,意謂『恆河位於土地的心臟地帶』。雖然現在當地居民的主要宗教信仰,已經由印度教轉變為伊斯蘭教,也不再視恆河為聖河,但是河水仍然影響著人們的衣食住行。」上述地區的範圍應約略等於現今哪一國家?",
+    "options": [
+      "(A)印度",
+      "(B)孟加拉",
+      "(C)巴基斯坦",
+      "(D)斯里蘭卡"
+    ],
+    "answer": "(B)",
+    "image": "",
+    "explanation": "詳解：恆河主要流經「印度」與「孟加拉」兩個國家。印度絕大多數居民至今仍信仰印度教，並將恆河視為聖河；而孟加拉位於恆河出海口的三角洲上，其居民因歷史與文化變遷，目前主要信仰已轉變為「伊斯蘭教」，雖然不再將恆河視為宗教上的聖河，但其發達的農業與生活用水仍極度依賴恆河。故該地區指孟加拉。"
   }
 ]
